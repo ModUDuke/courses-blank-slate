@@ -13,7 +13,7 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+This is an example exercise. it's great
 
 `@instructions`
 
