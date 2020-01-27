@@ -1,0 +1,1 @@
+# courses-blank-slate
