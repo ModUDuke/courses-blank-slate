@@ -46,16 +46,3 @@ a<-3
 
 success_msg("What a great job!")"
 ```
-
----
-
-## it's a video
-
-```yaml
-type: VideoExercise
-key: 1e83a10980
-xp: 50
-```
-
-`@projector_key`
-ba97f59907f1e58e0c76f989f6fcf30a
