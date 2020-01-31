@@ -30,7 +30,7 @@ a<-3
 
 `@sample_code`
 ```{r}
-put 3 into a
+# put 3 into a
 
 	a<-3
 ```
